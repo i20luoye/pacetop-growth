@@ -1,0 +1,8 @@
+{
+  "name": "PaceTop Growth",
+  "short_name": "PaceTop",
+  "description": "AI-driven growth solutions for Chinese B2B manufacturers.",
+  "lang": "zh-CN",
+  "display": "standalone",
+  "start_url": "/"
+}
