@@ -17,6 +17,11 @@ export const metadata: Metadata = {
     description:
       "AI驱动中国制造企业海外增长，帮助B2B企业获得更多国际客户。",
     type: "website",
+    images: ["/og-image.svg"],
+  },
+  twitter: {
+    card: "summary_large_image",
+    images: ["/og-image.svg"],
   },
 };
 
