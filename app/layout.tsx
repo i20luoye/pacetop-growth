@@ -2,16 +2,22 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "PaceTop Growth | AI B2B Growth Solutions for Manufacturers",
+  title: "PaceTop Growth | AI驱动中国制造企业海外增长",
   description:
-    "帮助中国制造企业通过 AI 搜索优化、SEO 和网站增长策略获得更多海外客户。",
+    "PaceTop Growth帮助中国B2B制造企业通过AI搜索优化、SEO和网站增长策略获得更多海外客户。",
   keywords: [
-    "B2B growth",
-    "AI SEO",
-    "GEO optimization",
+    "AI B2B Growth Audit",
     "外贸网站优化",
-    "中国制造企业海外获客",
+    "制造企业海外获客",
+    "AI SEO",
+    "GEO优化",
   ],
+  openGraph: {
+    title: "PaceTop Growth",
+    description:
+      "AI驱动中国制造企业海外增长，帮助B2B企业获得更多国际客户。",
+    type: "website",
+  },
 };
 
 export default function RootLayout({
