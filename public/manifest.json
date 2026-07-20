@@ -1,0 +1,8 @@
+{
+  "name": "PaceTop Growth",
+  "short_name": "PaceTop",
+  "description": "AI B2B Growth Audit for Chinese manufacturers.",
+  "lang": "zh-CN",
+  "display": "standalone",
+  "start_url": "/"
+}
