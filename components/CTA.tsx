@@ -1,1 +1,13 @@
-export default function CTA(){return <section className="py-24"><div className="mx-auto max-w-6xl px-6"><div className="rounded-3xl bg-blue-600 p-12 text-center text-white"><h2 className="text-4xl font-bold">让您的官网成为24小时工作的海外销售</h2><p className="mt-5 text-blue-100">获取免费的 AI B2B Growth Audit，发现您的网站增长机会。</p><a href="/audit-request" className="inline-block mt-8 rounded-lg bg-white px-8 py-3 text-blue-600 font-semibold">免费获取诊断</a></div></div></section>}
+export default function CTA(){
+  return (
+    <section className="py-24">
+      <div className="mx-auto max-w-6xl px-6">
+        <div className="rounded-3xl bg-blue-600 p-12 text-center text-white">
+          <h2 className="text-4xl font-bold">让您的官网成为24小时工作的海外销售</h2>
+          <p className="mt-5 text-blue-100">获取免费的 AI B2B Growth Audit，发现您的网站增长机会。</p>
+          <a href="/audit-request" className="inline-block mt-8 rounded-lg bg-white px-8 py-3 text-blue-600 font-semibold">免费获取诊断</a>
+        </div>
+      </div>
+    </section>
+  );
+}
