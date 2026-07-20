@@ -8,11 +8,13 @@
     "start": "next start"
   },
   "dependencies": {
+    "@tailwindcss/postcss": "latest",
     "@types/node": "22.19.1",
     "@types/react": "19.2.2",
     "@types/react-dom": "19.2.2",
     "lucide-react": "latest",
     "next": "16.2.10",
+    "postcss": "latest",
     "react": "19.2.0",
     "react-dom": "19.2.0",
     "tailwindcss": "latest",
